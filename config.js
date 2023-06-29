@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'SANDARU-YT'
+global.botname = '🐾𝐁𝐫𝐚𝐲𝐚𝐧 ✶ 𝐇𝐚𝐫𝐝𝐲🐾'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = '' 
+global.author = '🐾𝐁𝐫𝐚𝐲𝐚𝐧 ✶ 𝐇𝐚𝐫𝐝𝐲🐾' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
@@ -61,10 +61,10 @@ global.dbase = 'mongodb://mongo:q4bHb1TK9mOyuKFmp1oY@containers-us-west-56.railw
 
 global.wait = '*LOADING PLEASE WAIT....*'
 global.rwait = '⌛'
-global.dmoji = '🤭'
-global.done = '✅'
+global.dmoji = '♋'
+global.done = '🔞'
 global.error = '❌' 
-global.xmoji = '🔥' 
+global.xmoji = '🕎' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
