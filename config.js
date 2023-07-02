@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2250708779997', 'GURU', true],
+  ['2250708779997', 'Just...me', true],
   ['2250708779997', 'Pro max Brown', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['917605902011','32460248586'] 
+global.mods = ['2250575530277','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -62,9 +62,9 @@ global.dbase = 'mongodb://mongo:q4bHb1TK9mOyuKFmp1oY@containers-us-west-56.railw
 global.wait = '*LOADING PLEASE WAIT....*'
 global.rwait = '⌛'
 global.dmoji = '♋'
-global.done = '🔞'
+global.done = '😞'
 global.error = '❌' 
-global.xmoji = '🕎' 
+global.xmoji = '🙏' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
